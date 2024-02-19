@@ -1,0 +1,8 @@
+.on_top{
+    position: absolute;
+}
+
+.on_arrow_hover:hover{
+    background-color: #1371E2 !important;
+    color: white !important;
+}

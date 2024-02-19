@@ -1,0 +1,34 @@
+.custom_image_bordered_top{
+    border-top-left-radius: 120px;
+    border-top-right-radius: 120px;
+
+    border-spacing: 5px;
+    box-shadow: -10px 10px #ffffff, 
+    -10px 10px 0px 1px #1371E2;
+}
+.custom_image_bordered_top2{
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+
+    border-spacing: 5px;
+    box-shadow: 10px 10px #ffffff, 
+    10px 10px 0px 1px #1371E2;
+}
+
+.custom_image_h_w{
+    height: 90%;
+    width: 94%;
+}
+
+.long_dot{
+
+    width: 100%;
+    height: 3px;
+    margin-right: 0.5px;
+    margin-top: 9px;;
+    margin-left: 0.5px;
+    background-color: #DBEBFF;
+}
+.slick-active .long_dot{
+    background-color: #1371E2;
+}
