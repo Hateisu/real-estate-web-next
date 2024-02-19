@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Figma File https://www.figma.com/file/66O3VDhpzkbDHe4VCEtyAu/RealEstateWeb?type=design&node-id=169-730&mode=design&t=KsLy3RFK2Yrofhhh-0
+
 ## Getting Started
 
 First, run the development server:
